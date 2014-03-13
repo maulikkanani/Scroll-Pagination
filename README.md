@@ -33,13 +33,8 @@ jQuery(window).mkscroll({
  * `url` : (ex:- "ajax.php") this is a url on which you want to execute pagination query. By default its `ajax.php`.
  * `jqueryfunction` (ex:-before) this is a for jQuery functions `before = jQuery(appendon).before();` there are four options in this as per below.
 	
-	1)append For jQuery(appendon).append();  this is a default value.
-	1)before For jQuery(appendon).before();
-	1)after For jQuery(appendon).after();
-	1)html For jQuery(appendon).html();
+        1`)append` For jQuery(appendon).append();  this is a default value.
+        2)`before` For jQuery(appendon).before(); 
+        3)`after` For jQuery(appendon).after();
+        4)`html` For jQuery(appendon).html();
 		
-
-## LICENSES:
-
-* MIT: http://www.opensource.org/licenses/mit-license.php
-* GPL-2.0: http://www.gnu.org/licenses/gpl-2.0.html
