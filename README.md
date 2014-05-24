@@ -1,5 +1,5 @@
 ## Usage
-
+thay to
 The `mkscroll` method is called on scroll a window for example.
 
 ```javascript
