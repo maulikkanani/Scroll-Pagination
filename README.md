@@ -20,7 +20,6 @@ jQuery(window).mkscroll({
              appendon:"#main",      
              loader:".loader",      
          });
-});
 ```
 
 ## Options
